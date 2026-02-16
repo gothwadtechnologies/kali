@@ -1,0 +1,8 @@
+{
+  "name": "Kali Linux Web Simulator",
+  "description": "A high-fidelity Kali Linux desktop environment simulator featuring a functional terminal, virtual file system, C-Matrix background, and multi-window management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
